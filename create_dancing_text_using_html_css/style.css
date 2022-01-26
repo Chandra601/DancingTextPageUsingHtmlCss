@@ -1,0 +1,19 @@
+body{
+    background: #222831;
+    font-family: 'Graduate';
+}
+
+::selection{
+    background: #fd7014;
+    text-shadow: none;
+}
+
+h1{
+    position: relative;
+    top: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+    color: #fd7014;
+    text-shadow: 2px 2px 3px #000;
+}
